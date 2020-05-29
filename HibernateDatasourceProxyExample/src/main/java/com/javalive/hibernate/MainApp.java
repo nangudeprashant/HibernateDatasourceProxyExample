@@ -9,7 +9,7 @@ import com.javalive.entity.Person;
  * @author javalive.com
  */
 public class MainApp {
-
+    //Sample comment.
 	public static void main(String[] args) {
 		Session session = null;
 		Transaction transaction = null;
